@@ -2,7 +2,7 @@
 Contém um resumo do projeto de retrofit para a plotter de corte e desenho do CITeBauru.
 
 ## CNC
-De acordo com o [dicionário Collins](https://www.collinsdictionary.com/dictionary/english/cnc) CNC, em tradução livre, é "Controle Numérico Computacional" que é um meio de controlar como máquinas operam, utilizando um computador. Então, impressoras, plotters, impressoras 3D, cortadoras laser, são todas máquinas que utilizam CNC para transformar arquivos gerados pelos usuários em um resultado físico.
+De acordo com o [dicionário Collins](https://www.collinsdictionary.com/dictionary/english/cnc) CNC, em tradução livre, é "Controle Numérico Computacional" que é um meio de controlar como máquinas operam, utilizando um computador ou um microcontrolador(MCU). Então, impressoras, plotters, impressoras 3D, cortadoras laser, são todas máquinas que utilizam CNC para transformar arquivos gerados pelos usuários em um resultado físico.
 
 Pra isso, geralmente é associado uma [MCU](https://www2.decom.ufop.br/imobilis/iot-cpu-vs-mcu-vs-soc-vs-fpga/) com, geralmente, interfaces de potências para controlar os [atuadores](https://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/aula-5---sensor-25-04-2013b.pdf) que vão gerar alguma coisa no mundo material, como um motor que gera algum movimento ou que acionam a lâmina, com no caso da plotter cortadora.
 
