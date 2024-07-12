@@ -48,7 +48,10 @@ Para a lista de materiais, irei listar inclusive os componentes que pode ser que
 ## Futuros projetos
 
 Com esse primeiro projeto feito, com sua documentação e aprendizados, é apenas o primeiro passo, pois, na UNESP Bauru, temos muitos equipamentos que utilizam CNC que se encontram em situação parecida ou até pior do que a da plotter de corte, o qual não existe mais suporte por parte dos fabricantes e o sistema delas não comunica mais com os sitemas e programas atuais.
-Um exemplo é a CNC que se encontra nos ateliês de artes, de marca ainda soviética (até onde ouvi falar) que nunca sequer foi utilizada pelos alunos, sequer uma vez, e por conta dessa não compatibilidade com os sitemas e programas atuais, se encontra parada, estragando. Com o retrofit, podemos dar vida nova ao equipamento, assim sendo útil para a realização de projetos dos alunos, trazendo valor, não somente dos trabalhos feitos, mas do aprendizado dos alunos e também da utilização da mesma, assim recuperando algo que só iria estragar e ser descartado, equipamento esse de alto valor monetário e de possibilidade de realização de projetos.
+Um exemplo é a CNC que se encontra nos ateliês de artes, de marca ainda soviética (até onde ouvi falar) que nunca sequer foi utilizada pelos alunos, sequer uma vez, e por conta dessa não compatibilidade com os sitemas e programas atuais, se encontra parada, estragando. 
+
+Com o retrofit, podemos dar vida nova ao equipamento, assim sendo útil para a realização de projetos dos alunos, trazendo valor, não somente dos trabalhos feitos, mas do aprendizado dos alunos e também da utilização da mesma, assim recuperando algo que só iria estragar e ser descartado, equipamento esse de alto valor monetário e de possibilidade de realização de projetos.
+
 Esse é apenas um exemplo de equipamento que pode ser recuperado e também podemos recuperar, utilizando as técnicas e conhecimentos de retrofit para [recuperar as Moustas do FabLab também](https://github.com/gabrielsouza95/mousta-retrofit/tree/main) que se encontram paradas. As mesmas, que tem qualidade e possibilidade de imprimir muito ainda, podem ser ressucitadas e colocadas pra trabalhar em pé de igualdade com as Sethi3D.
     
 ## Referências
